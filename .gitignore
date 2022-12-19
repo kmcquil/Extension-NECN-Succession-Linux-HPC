@@ -209,3 +209,7 @@ FakesAssemblies/
 *.opt
 
 /testing
+
+/hpc/kate
+
+*.sif
